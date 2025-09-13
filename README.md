@@ -1,2 +1,2 @@
 # demo
-This is my first repository author-Shraddha khapra
+This is my first repository author-Sakshi chougule
