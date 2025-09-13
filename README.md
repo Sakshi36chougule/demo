@@ -1,2 +1,2 @@
 # demo
-This is my first repository autj=hor-Shraddha khapra
+This is my first repository author-Shraddha khapra
